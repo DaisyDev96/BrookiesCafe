@@ -1,0 +1,35 @@
+.flex-item {
+    width: 33.3%;
+    max-height: 200px;
+    overflow: scroll;
+    border: 1px green solid;
+    text-align: center;
+    height: 125px;
+}
+
+.title {
+    width: 33.3%;
+    max-height: 200px;
+    overflow: scroll;
+    border: 1px green solid;
+    text-align: center;
+    height: 125px;
+}
+
+.title h1 {
+    margin-top: -.3%;
+}
+
+.flex-item h4 {
+    margin-top: -.1%;
+}
+
+.homePageHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px green solid;
+    margin: 0 auto;
+    position: sticky;
+}

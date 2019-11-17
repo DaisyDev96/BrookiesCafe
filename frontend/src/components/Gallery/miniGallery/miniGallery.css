@@ -1,0 +1,16 @@
+.miniGallery {
+    width: 100%;
+    text-align: center;
+}
+
+.imgCarousel {
+    display: flex;
+    height: 300px;
+}
+
+.flexPiccMini {
+    width: 23%;
+    margin: 1%;
+    border-radius: 20%;
+    border: green solid 2px;
+}

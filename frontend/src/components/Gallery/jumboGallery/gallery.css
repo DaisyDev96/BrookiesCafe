@@ -1,0 +1,29 @@
+.jumboGallery {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 2.5%;
+    border: green solid 2px;
+}
+
+.galleryFlex {
+    width: 20%;
+    height: 200px;
+    margin: 1.5%;
+    border-radius: 20%;
+    border: green solid 2px;
+}
+
+.jumboHeader {
+    text-align: center;
+    width: 100%;
+    text-align: center;
+    border: red solid 1px;
+}
+
+.galleyPics {
+    background-color: white;
+    max-width: 90%;
+    overflow: scroll;
+    border: red solid 2px;
+    padding-left: 5%;
+}
