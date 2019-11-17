@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/98076d3c-9fa7-41ba-ba52-e7ba3a793ab1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/testingBrookies"
+}
